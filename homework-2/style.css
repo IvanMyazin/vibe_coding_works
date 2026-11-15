@@ -1,0 +1,43 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #eeeeee;
+  color: #222222;
+  margin: 20px;
+}
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid #aaaaaa;
+}
+
+.services {
+  background-color: #ffffff;
+  padding: 20px;
+  border: 1px solid #aaaaaa;
+  margin-top: 20px;
+}
+
+.error {
+  color: #b00000;
+}
+
+.report {
+  background-color: #ffffff;
+  padding: 15px;
+  border: 1px solid #aaaaaa;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+}
+
+button {
+  padding: 8px 12px;
+  background-color: #dddddd;
+  color: #222222;
+  border: 1px solid #888888;
+}
